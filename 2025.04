@@ -1,3 +1,10 @@
 ## 2025/04/05
 - ハンバーガーメニュー仕様変更（DrinkCollection）
   - ターボメソッドが反映されないため
+___
+## 2025/04/06
+- ハンバーガーメニュー仕様変更（DrinkCollection）
+  - `Script`から`railwindcss`+`DaisyUI`の仕様に変更
+- ドリンクデータベース作成（DrinkCollection）
+  - カテゴリーのドリンクデータを入れ込み
+- paiza
